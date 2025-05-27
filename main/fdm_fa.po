@@ -26,7 +26,7 @@ msgstr "© %1, %2-%3"
 
 msgctxt "AboutDialog|"
 msgid "remote control"
-msgstr "ریموت‌کنترل"
+msgstr "کنترل از راه دور"
 
 msgctxt "AboutDialog|"
 msgid "version %1"
